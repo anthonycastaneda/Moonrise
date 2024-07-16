@@ -12,6 +12,7 @@ GEM
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     eventmachine (1.2.7-java)
+    ffi (1.17.0-arm64-darwin)
     ffi (1.17.0-java)
     ffi (1.17.0-x64-mingw-ucrt)
     ffi (1.17.0-x86_64-linux-gnu)
@@ -19,6 +20,9 @@ GEM
       ffi (>= 1.15.5)
       rake
     forwardable-extended (2.6.0)
+    google-protobuf (4.27.1-arm64-darwin)
+      bigdecimal
+      rake (>= 13)
     google-protobuf (4.27.1-java)
       bigdecimal
       ffi (~> 1)
@@ -84,6 +88,8 @@ GEM
     sass-embedded (1.77.5)
       google-protobuf (>= 3.25, < 5.0)
       rake (>= 13)
+    sass-embedded (1.77.5-arm64-darwin)
+      google-protobuf (>= 3.25, < 5.0)
     sass-embedded (1.77.5-x64-mingw-ucrt)
       google-protobuf (>= 3.25, < 5.0)
     sass-embedded (1.77.5-x86_64-linux-gnu)
@@ -101,6 +107,7 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
+  arm64-darwin-23
   java
   x64-mingw-ucrt
   x86_64-linux
