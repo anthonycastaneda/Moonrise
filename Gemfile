@@ -39,3 +39,4 @@ gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "jekyll-paginate"
 gem "jekyll-include-cache"
+gem 'public_suffix'
