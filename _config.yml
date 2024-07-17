@@ -1,7 +1,7 @@
 # Site
 title: "Moony"
-bio: "My God! What Have I Done?"
-description: "Moony"
+bio: "Would ya look at that moon"
+description: "So Moony"
 reading_time: true
 words_per_minute: 200
 logo: "assets/img/logo.png"
@@ -40,7 +40,7 @@ email: anthony@anthonycastaneda.com
 #twitter: username
 #facebook: username
 github-url: anthonycastaneda
-#stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
+stackoverflow: 23035461/anthony-castañeda  
 linkedin: anthonydcastaneda
 #xing: username
 #instagram: username
@@ -51,15 +51,15 @@ linkedin: anthonydcastaneda
 #foursquare: username
 #steam: username
 #dribbble: username
-#youtube: username
+youtube: TacoAnthony
 #youtube-channel: channel
 #soundcloud: username
 #weibo: username
 #flickr: username
-#codepen: username
-#keybase: username
+codepen: anthonycastaneda
+keybase: anthonycastaneda
 #xmpp: username@server.com
-#hackernews: username
+hackernews: acastand
 
 # Plugins
 plugins:
