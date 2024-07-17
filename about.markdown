@@ -1,25 +1,25 @@
 ---
 layout: page
-title: About the Theme
+title: About the Moon
 tags: [about, Jekyll, theme, moon]
-date: 2024-02-11
+date: 2024-07-16
 comments: false
 ---
 
-<center><a href="http://TolgaTatli.github.io/Moonrise"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://science.nasa.gov/moon/"><b>Moon</b></a> is a minimal, monochromatic satellite.</center>
 
 ## Features
 
--   Minimal, you can focus on your content
--   Responsive
--   Disqus integration
+-   Minimal, you can focus on your oxygen situation
+-   Responsive (not really, it is rock)
+-   Disqus integration (unused)
 -   Syntax highlighting
 -   Optional post image
 -   Social icons
 -   Page for sharing projects
 -   Optional background image
 -   Simple navigation menu
--   MathJax support
+-   MathJax support (impressive for a rock in space)
 
 ## Preview
 
@@ -29,10 +29,3 @@ https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-87
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://TolgaTatli.github.io/Moonrise) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-
-[Install Moon](https://github.com/TolgaTatli/Moonrise){: .btn}
